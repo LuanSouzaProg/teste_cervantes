@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visualStudio\\cervantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE27A8-0E79-413B-8F32-475880136C43}|cervantes\\cervantes.csproj|d:\\visualstudio\\cervantes\\cervantes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE27A8-0E79-413B-8F32-475880136C43}|cervantes\\cervantes.csproj|solutionrelative:cervantes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE27A8-0E79-413B-8F32-475880136C43}|cervantes\\cervantes.csproj|d:\\visualstudio\\cervantes\\cervantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE27A8-0E79-413B-8F32-475880136C43}|cervantes\\cervantes.csproj|solutionrelative:cervantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE27A8-0E79-413B-8F32-475880136C43}|cervantes\\cervantes.csproj|d:\\visualstudio\\cervantes\\cervantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE27A8-0E79-413B-8F32-475880136C43}|cervantes\\cervantes.csproj|solutionrelative:cervantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\visualStudio\\cervantes\\cervantes\\Form1.cs",
+              "RelativeDocumentMoniker": "cervantes\\Form1.cs",
+              "ToolTip": "D:\\visualStudio\\cervantes\\cervantes\\Form1.cs",
+              "RelativeToolTip": "cervantes\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:23:14.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visualStudio\\cervantes\\cervantes\\Program.cs",
+              "RelativeDocumentMoniker": "cervantes\\Program.cs",
+              "ToolTip": "D:\\visualStudio\\cervantes\\cervantes\\Program.cs",
+              "RelativeToolTip": "cervantes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:29:49.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\visualStudio\\cervantes\\cervantes\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "cervantes\\Form1.Designer.cs",
+              "ToolTip": "D:\\visualStudio\\cervantes\\cervantes\\Form1.Designer.cs",
+              "RelativeToolTip": "cervantes\\Form1.Designer.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAIwHYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:07:42.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
